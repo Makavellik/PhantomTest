@@ -28,9 +28,11 @@
 **PhantomTesting** es un motor de prueba y simulación que permite:
 
 - 🧪 *Fuzzing dinámico* sobre rutas y servicios web.
+- 🎭 *Generación de headers ultra-randomizados*
+- 🔐 *Modo sigiloso con IP spoofing*
 - 🧠 *Evasión activa* usando headers simulados y mutaciones.
 - 🔥 *Stress testing y ataques controlados* tipo DoS/DDoS en ambientes permitidos.
-- 💠 *Generación simbiótica de patrones y payloads*.
+- 💠 *Generación mutables de patrones y payloads*.
 
 > ⚠️ Este software es **para investigación, defensa y educación.** **No lo uses en sistemas sin autorización.**
 
@@ -176,6 +178,8 @@ Inspirado en herramientas como:
 * OWASP ZAP
 * Slowloris
 * Metasploit modules
+
+* @DonMakaveliw, ¿Estas listo para crear el futuro?
 
 ---
 
