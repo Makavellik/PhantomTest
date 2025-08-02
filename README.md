@@ -19,7 +19,7 @@
 ---
 
 # 🧬 PHANTOM TESTING
-> ⚛️ Motor mutable de ataques HTTP inteligentes para fuzzing, fingerprinting, y stress testing avanzados con evasión dinámica.
+> ⚛️ Motor mutable de ataques HTTP inteligentes para fuzzing y stress testing avanzados con evasión dinámica.
 
 ---
 
@@ -27,7 +27,6 @@
 
 **PhantomTesting** es un motor de prueba y simulación que permite:
 
-- 🔍 *Fingerprinting profundo* (CDN, DNS, SSL, tracking).
 - 🧪 *Fuzzing dinámico* sobre rutas y servicios web.
 - 🧠 *Evasión activa* usando headers simulados y mutaciones.
 - 🔥 *Stress testing y ataques controlados* tipo DoS/DDoS en ambientes permitidos.
