@@ -50,11 +50,12 @@ pip install -r requirements.txt
 
 * `requests`
 * `colorama`
+* `base58`
 
 Instala rápido con:
 
 ```bash
-pip install requests colorama
+pip install requests colorama base58
 ```
 
 ---
